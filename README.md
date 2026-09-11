@@ -217,3 +217,5 @@ When the wizard is done, restart the application and run the exploits again to c
 jenkins automatic email test 1
 
 jenkins automatic email test 2
+
+jenkins automatic email test 3
